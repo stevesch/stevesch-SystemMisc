@@ -1,0 +1,21 @@
+{
+  "name": "stevesch-SystemMisc",
+  "keywords": "",
+  "description": "",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/stevesch/stevesch-SystemMisc"
+  },
+  "exclude": "tests",
+  "frameworks": "arduino",
+  "platforms": "*",
+  "authors":
+  {
+    "name": "Stephen Schlueter",
+    "url": "",
+    "maintainer": true
+  },
+  "dependencies": [
+  ]
+}
