@@ -1,5 +1,8 @@
 #include <Arduino.h>
 // This is a test example for SystemMisc
+#include <stevesch-SystemMisc.h>
+
+// TODO: Meaningful minimal example
 
 void setup()
 {

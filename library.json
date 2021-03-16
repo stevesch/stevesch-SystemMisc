@@ -17,5 +17,6 @@
     "maintainer": true
   },
   "dependencies": [
+    "https://github.com/stevesch/stevesch-MathBase.git"
   ]
 }
