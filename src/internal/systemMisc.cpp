@@ -10,13 +10,5 @@ namespace {
 namespace stevesch {
 namespace SystemMisc {
 
-  // void setup()
-  // {
-  // }
-
-  // void loop()
-  // {
-  // }
-
 } // namespace SystemMisc
 } // namespace stevesch

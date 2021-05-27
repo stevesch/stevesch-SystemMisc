@@ -1,7 +1,8 @@
 {
   "name": "stevesch-SystemMisc",
-  "keywords": "",
-  "description": "",
+  "version": "0.1.0",
+  "keywords": "timer, interval, counter, fps",
+  "description": "Common system functions (intervals, timers, etc.)",
   "repository":
   {
     "type": "git",
@@ -13,10 +14,10 @@
   "authors":
   {
     "name": "Stephen Schlueter",
-    "url": "",
+    "url": "https://github.com/stevesch",
     "maintainer": true
   },
   "dependencies": [
-    "https://github.com/stevesch/stevesch-MathBase.git"
+    "stevesch/stevesch-MathBase.git"
   ]
 }

@@ -5,8 +5,6 @@
 namespace stevesch
 {
 namespace SystemMisc {
-  // void setup();
-  // void loop();
 }
 }
 
